@@ -10,7 +10,7 @@ body{
 }
 
 .container {
-  max-width: auto;
+  max-width: 1200px;
   margin: 0px auto;
 }
 
@@ -302,9 +302,3 @@ header {
     width: 100%;
   }
 }
-/*
-@media screen and (min-width: 1280px) {
-  .hi{
-    width: 1280px;
-  }
-}*/
