@@ -346,9 +346,6 @@ header {
     column-gap: 10px;
     row-gap: 1em;
   }
-  .vertical__column {
-    margin: 1em auto 2em; 
-  }
   .columns__row {
     display: flex;
     flex-wrap: wrap;
@@ -384,9 +381,6 @@ header {
   .columns__column {
     grid: 0 1 50%;
     margin: 0px 0px 30px 0px;
-  }
-  .what__image {
-    grid: 0 0 200px;
   }
 
   
