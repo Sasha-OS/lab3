@@ -379,5 +379,8 @@ header {
     column-gap: 10px;
     row-gap: 1em;
   }
+  .item__body {
+    display: block;
+  }
 
 }
