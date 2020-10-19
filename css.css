@@ -353,6 +353,8 @@ header {
   .hi__image {
     visibility: hidden;
     margin: 0px 10px 5px 5px;
+    position:absolute;
+    top:-9999px;
   }
   .what__row {
     display: grid;
