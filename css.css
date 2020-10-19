@@ -371,7 +371,7 @@ header {
 
   }
   .what__row {
-    display: inline;
+    display: grid;
   }
   .columns__row {
     display: grid;
