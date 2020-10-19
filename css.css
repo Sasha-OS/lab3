@@ -303,7 +303,7 @@ header {
   }
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1280px) and (min-width: 560px) {
   .vertical__row {
     display: grid;
     grid-template-columns: repeat(2, 40%);
