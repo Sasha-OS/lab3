@@ -370,9 +370,8 @@ header {
     margin:  0px 0px 5px 0px;
 
   }
-  .what__image{
-    width: auto;
-    height: auto;
+  .what__image {
+    flex: 0 0 200px;
   }
   
 }
