@@ -385,6 +385,9 @@ header {
     grid: 0 1 50%;
     margin: 0px 0px 30px 0px;
   }
+  .what__image {
+    grid: 0 0 200px;
+  }
 
   
   
