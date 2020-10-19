@@ -347,8 +347,7 @@ header {
     row-gap: 1em;
   }
   .columns__row {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
     margin: 0px 0px;
     align-content: space-between;
   }
