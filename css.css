@@ -348,6 +348,7 @@ header {
   }
   .columns__row {
     display: grid;
+    grid-template-columns: repeat(1, 100%);
     margin: 0px 0px;
     align-content: space-between;
   }
