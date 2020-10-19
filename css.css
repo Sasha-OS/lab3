@@ -371,5 +371,8 @@ header {
     display: grid;
     margin: 0px 0px;
   }
+  .columns__row {
+    display: grid;
+  }
 
 }
