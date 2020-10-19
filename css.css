@@ -351,8 +351,7 @@ header {
   }
 
   .hi__image {
-    width: 100%;
-    max-width: 50px;
+    width: 0%;
     margin: 0px 10px 5px 5px;
   }
   .what__row {
