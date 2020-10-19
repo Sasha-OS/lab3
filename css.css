@@ -356,6 +356,7 @@ header {
     position:absolute;
     top:-9999px;
   }
+  
   .what__row {
     display: grid;
     margin: 0px 0px;
@@ -371,5 +372,8 @@ header {
   .item__body {
     display: block;
   }
-
+  .hi__row {
+    display: inline;
+    justify-content: left;
+  }
 }
