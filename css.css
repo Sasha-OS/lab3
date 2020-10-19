@@ -346,6 +346,10 @@ header {
     column-gap: 10px;
     row-gap: 1em;
   }
+  .columns_item {
+    display: grid;
+    grid-template-columns: repeat(1, 100%);
+  }
   .columns__row {
     display: grid;
     grid-template-columns: repeat(1, 100%);
