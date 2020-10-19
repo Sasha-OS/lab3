@@ -342,7 +342,7 @@ header {
     display: grid;
     grid-template-columns: repeat(1, 100%);
     grid-auto-rows: 100px, auto;
-    margin: 0px -20px;
+    margin: 0px -60px;
     column-gap: 10px;
     row-gap: 1em;
   }
@@ -372,6 +372,7 @@ header {
   }
   .what__row {
     display: grid;
+    margin: 0px 0px;
   }
   .columns__row {
     display: grid;
