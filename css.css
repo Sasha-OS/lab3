@@ -378,8 +378,8 @@ header {
     margin: 0px 0px 10px 0px;
   }
   .columns__row {
-    display: flex;
-    flex-direction: column;
+    /*display: flex;
+    flex-direction: column;*/
     margin: 0px 0px;
   }
   .columns__column {
