@@ -346,8 +346,8 @@ header {
     column-gap: 10px;
     row-gap: 1em;
   }
-  .columns__row {
-    display: grid;
+  .item__row {
+    display: gird;
   }
   .hi__title {
    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
