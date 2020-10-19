@@ -373,6 +373,11 @@ header {
   }
   .columns__row {
     display: grid;
+    grid-template-columns: repeat(1, 100%);
+    grid-auto-rows: 100px, auto;
+    margin: 0px -20px;
+    column-gap: 10px;
+    row-gap: 1em;
   }
 
 }
