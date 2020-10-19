@@ -357,7 +357,7 @@ header {
   .hi__image {
     display: block;
     width: 100%;
-    max-width: 150px;
+    max-width: 50px;
     margin: 0px 10px 5px 5px;
     background-size: 64px 64px;
   }
